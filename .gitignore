@@ -14,6 +14,7 @@ dist-ssr
 
 # Firebase
 firebase.ts
+fancy-vocab-trainer-firebase-adminsdk-fbsvc-5e944b00bd.json
 
 # Editor directories and files
 .vscode/*
