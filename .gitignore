@@ -13,8 +13,8 @@ dist-ssr
 *.local
 
 # Firebase
-firebase.ts
 fancy-vocab-trainer-firebase-adminsdk-fbsvc-5e944b00bd.json
+.env
 
 # Editor directories and files
 .vscode/*
