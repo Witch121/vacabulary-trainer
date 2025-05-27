@@ -29,6 +29,6 @@ A modern web-based diary app for writers, language lovers, and introspective min
 
 ## 🚀 Live Demo
 
-👉 [Open the app]([https://fancy-vocab-trainer.web.app/])
+👉 [Open the app](https://fancy-vocab-trainer.web.app/)
 
 ---
